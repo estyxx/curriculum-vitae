@@ -66,11 +66,11 @@
 
 #### **education**
 - 2009 - 2016 Degree from the Department of Physical, Computer Science and Mathematics in the **Computer Science Degree** Course
-*University of Modena and Reggio Emilia, Italy*
-with 100/110 evaluation
+<small>*University of Modena and Reggio Emilia, Italy*
+with 100/110 evaluation*</small>
 
 - 2009 Diploma of Accountant, Commercial Expert and Programmer
-*I.T.C.G. Institute "Luigi Einaudi" of Correggio RE, Italy*
+<smal>*I.T.C.G. Institute "Luigi Einaudi" of Correggio RE, Italy*</small>
 
 
 #### **technical skills**
