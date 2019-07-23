@@ -1,0 +1,24 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "Ester Beltrami's Curriculum Vitae",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/estyxx/curriculum-vitae"
+  },
+  "keywords": [
+    "cv",
+    "curriculum-vitae"
+  ],
+  "author": "Ester Beltrami",
+  "license": "ISC",
+  "dependencies": {
+    "mdpdf": "^1.5.1",
+    "node-sass": "^4.7.2",
+    "style.css": "^1.0.0-beta-1"
+  }
+}
