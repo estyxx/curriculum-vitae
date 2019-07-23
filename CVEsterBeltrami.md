@@ -50,11 +50,11 @@
 
 #### **projects**
 
-**Python Italia - May 2019 / Today**
+**PyCon Italy - May 2019 / Today**
 <small>Full Stack Web Developer</small>
 
-- Started contributing to Website development
-- **Tool set**: Python, Django, JavaScript, TypeScript, React, GraphQL, Getsby
+- Started contributing to Website development of [@python.it](https://twitter.com/pyconit)
+- **Tool set**: Python, Django, JavaScript, TypeScript, React, GraphQL, Getsby 
 
 
 **MisterSagra - Nov. 2017 / Today**
