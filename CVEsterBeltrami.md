@@ -1,6 +1,3 @@
-<!--
-
--->
 
 <h1>**Ester Beltrami**<h1>
 
@@ -13,7 +10,7 @@
 - **nationality**: italian; 
 - **languages**: italian mother tongue, *english* (intermidiate);
 
-**Full Stack Web Developer** in *Reggio Emilia, Italy*. I love Python, Django and JavaScript. Recently start working with React but I have also some experience with AngularJs.
+**Full Stack Web Developer** in *Reggio Emilia, Italy*. I love Python, Django and JavaScript. Recently started working with React but I have also some experience with AngularJs.
 
 
 #### **experience**
@@ -23,7 +20,7 @@
 <small>Full Stack Web Developer in *Reggio Emilia*</small>
 
 -Developed and maintained of ERP web applications for a big Italian company operating in the fashion industry. 
-- Technical analysis and project development, front-end and back-end. Pre and post release support.
+- Technical analysis and project development, front-end and back-end. Pre and post-release support.
 - **Areas/Projects**: Invoices, Raw Materials...
 - **Tool set**: Python (2.7), JavaScript, AngularJs, SQL (mysql e oracle), HTML, jQuery, OOP Programming, git
 
