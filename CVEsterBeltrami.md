@@ -53,7 +53,8 @@
 **Python Italia - May 2019 / Today**
 <small>Full Stack Web Developer</small>
 
-Started contributing 
+- Started contributing to Website development
+- **Tool set**: Python, Django, JavaScript, TypeScript, React, GraphQL, Getsby
 
 
 **MisterSagra - Nov. 2017 / Today**
@@ -74,7 +75,7 @@ with 100/110 evaluation
 
 #### **technical skills**
 - **Operating systems**: Mac, Windows, Linux
-- **Programming Languages**: Python, SQL (mysql, oracle, postgres), JavaScript (AngularJs, React), jQuery
+- **Programming Languages**: Python, SQL (mysql, oracle, postgres), JavaScript (AngularJs, React), TypeScript, GraphQL, jQuery
 - **Markup languages**: HTML, LATEX
 - **Scripting languages**: excellent knowledge of the Shell language (Unix)
 
