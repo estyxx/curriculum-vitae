@@ -21,7 +21,6 @@
 
 -Developed and maintained of ERP web applications for a big Italian company operating in the fashion industry. 
 - Technical analysis and project development, front-end and back-end. Pre and post-release support.
-- **Areas/Projects**: Invoices, Raw Materials...
 - **Tool set**: Python (2.7), JavaScript, AngularJs, SQL (mysql e oracle), HTML, jQuery, OOP Programming, git
 
 
