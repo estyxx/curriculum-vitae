@@ -1,27 +1,39 @@
 
 <h1>**Ester Beltrami**<h1>
 
-#### **contact**
+### **contact**
 - **Email**: beltrami.ester@gmail.com
-- **LinkedIn**: ln://esterbeltrami
+- **LinkedIn**: [esterbeltrami](ln://esterbeltrami) 
 - **GitHub**: [estyxx](https://github.com/estyxx) 
-- **Twitter**: @ester.beltrami
+- **Twitter**: [@ester.beltrami](https://twitter.com/esterbeltrami)
 - **Date of Birth**: 13/07/1990
 - **nationality**: italian; 
 - **languages**: italian mother tongue, *english* (intermidiate);
 
-**Full Stack Web Developer** in *Reggio Emilia, Italy*. I love Python, Django and JavaScript. Recently started working with React but I have also some experience with AngularJs.
+**Full Stack Web Developer** in *Reggio Emilia, Italy* wants to relocate and look for a job in **London**. Degree in Computer Science, work with **Python**, **Django** and **JavaScript**. Recently started working with **React.js**, but I have also some experience with AngularJs.
+In brief, I'm intermediate level backend developer, Beginner with React, and Intermediate with AngularJs.
 
 
-#### **experience**
+
+### **technical skills**
+- **Programming Languages**: Python (3.5+ years), TypeScript (Beginner), GraphQL (Beginner), jQuery
+- **Web Frameworks**: Django (some projects)
+- **Database**: MySQL, PostgreSQL, Oracle
+- **JavaScript Frameworks**: AngularJs (7+ months), React.js (3+ months)
+- **Markup languages**: HTML, LaTex
+- **Scripting languages**: excellent knowledge of the Shell language (Unix)
+- **Agile Development**: Agile, TDD
+
+
+### **experience**
 
 
 **OT Consulting - May 2016 / Today**
 <small>Full Stack Web Developer in *Reggio Emilia*</small>
 
--Developed and maintained of ERP web applications for a big Italian company operating in the fashion industry. 
+- Developed and maintained of ERP web applications for a big Italian company operating in the fashion industry. 
 - Technical analysis and project development, front-end and back-end. Pre and post-release support.
-- **Tool set**: Python (2.7), JavaScript, AngularJs, SQL (mysql e oracle), HTML, jQuery, OOP Programming, git
+- **Tool set**: Python (2.7), JavaScript, AngularJs, SQL (mysql, oracle), HTML, jQuery, OOP Programming, git
 
 
 **Collaborations with freelancers - 2014 - 2015**
@@ -47,7 +59,7 @@
 
 
 
-#### **projects**
+### **projects**
 
 **PyCon Italy - May 2019 / Today**
 <small>Full Stack Web Developer</small>
@@ -63,7 +75,7 @@
 - **Tool Set**: Python, Django. Versioning: git, mercurial
 
 
-#### **education**
+### **education**
 - 2009 - 2016 Degree from the Department of Physical, Computer Science and Mathematics in the **Computer Science Degree** Course
 <small>*University of Modena and Reggio Emilia, Italy*
 with 100/110 evaluation*</small>
@@ -72,11 +84,6 @@ with 100/110 evaluation*</small>
 <smal>*I.T.C.G. Institute "Luigi Einaudi" of Correggio RE, Italy*</small>
 
 
-#### **technical skills**
-- **Operating systems**: Mac, Windows, Linux
-- **Programming Languages**: Python, SQL (mysql, oracle, postgres), JavaScript (AngularJs, React), TypeScript, GraphQL, jQuery
-- **Markup languages**: HTML, LATEX
-- **Scripting languages**: excellent knowledge of the Shell language (Unix)
 
 ### **further information**
 **driving license**: type B Italian license
