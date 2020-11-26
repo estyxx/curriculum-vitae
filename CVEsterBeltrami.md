@@ -5,7 +5,6 @@
 **Email**: beltrami.ester@gmail.com
 **LinkedIn**: [esterbeltrami](ln://esterbeltrami) 
 **GitHub**: [estyxx](https://github.com/estyxx) 
-**Twitter**: [@ester.beltrami](https://twitter.com/esterbeltrami)
 
 I am a passionate full-stack developer with a degree in Computer Science and over 4+ years of experience building websites and products using **Django**, **PostgreSQL**, **React** and **REST/GraphQL** as my favourite tech stack. 
 In my free time, I also love to attend and help organize Python conferences such as PyCon Italy and contribute to open-source projects.
