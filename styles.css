@@ -43,6 +43,7 @@ pre {
   margin-top: 0;
   margin-bottom: 1.25em;
   padding: 0 5px;
+  font-size: 110%;
 }
 
 small {
@@ -59,6 +60,7 @@ h6 {
   line-height: 1.25em;
   /* margin-top: 2rem; */
   /* margin-bottom: 1.25rem; */
+  margin-left: 4px;
   font-weight: 400;
   position: relative;
 }
@@ -72,7 +74,8 @@ h5 small,
 h6 small {
   font-weight: 300;
   font-size: 0.7em;
-  margin-left: 0.5em;
+  /* margin-left: 0.5em; */
+  margin-left: 4px;
   color: #777;
 }
 
@@ -89,19 +92,21 @@ h1 {
   font-size: 3em;
   font-weight: 800;
   color: rgb(36,33,28);
-  margin-bottom: -30px;
+  margin-bottom: -25px;
 }
 
 h2 {
   font-size: 2.25em;
   font-weight: bold;
   border-bottom: solid 1px #CFD8DC;
+  margin-left: 4px;
 }
 
 h3 {
   font-size: 1.55em;
   font-weight: bold;
   margin-bottom: 4px;
+  margin-left: 4px;
   /* letter-spacing: 1.5px; */
   /* border-top: solid 1px #CFD8DC; */
   /* border-bottom: solid 1px #CFD8DC; */
@@ -274,7 +279,7 @@ kbd {
   color: #303030;
   display: inline-block;
   line-height: 0.95em;
-  margin: 0 1px;
+  /* margin: 0 1px; */
   padding: 5px 5px 1px;
 }
 
@@ -451,7 +456,7 @@ button:-moz-focusring,
 
 fieldset {
   border: 1px solid #c0c0c0;
-  margin: 0 2px;
+  /* margin: 0 2px; */
   padding: 0.35em 0.625em 0.75em;
 }
 
